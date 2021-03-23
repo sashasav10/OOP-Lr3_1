@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\TestLіst\TestLіst\bin\Debug\TestLіst.exe.config
+C:\Users\user\source\repos\TestLіst\TestLіst\bin\Debug\TestLіst.exe
+C:\Users\user\source\repos\TestLіst\TestLіst\bin\Debug\TestLіst.pdb
+C:\Users\user\source\repos\TestLіst\TestLіst\obj\Debug\TestLіst.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TestLіst\TestLіst\obj\Debug\TestLіst.Form1.resources
+C:\Users\user\source\repos\TestLіst\TestLіst\obj\Debug\TestLіst.Properties.Resources.resources
+C:\Users\user\source\repos\TestLіst\TestLіst\obj\Debug\TestLіst.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TestLіst\TestLіst\obj\Debug\TestLіst.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TestLіst\TestLіst\obj\Debug\TestLіst.exe
+C:\Users\user\source\repos\TestLіst\TestLіst\obj\Debug\TestLіst.pdb

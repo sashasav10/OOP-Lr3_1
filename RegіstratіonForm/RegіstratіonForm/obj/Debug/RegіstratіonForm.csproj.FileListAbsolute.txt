@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\RegіstratіonForm\RegіstratіonForm\bin\Debug\RegіstratіonForm.exe.config
+C:\Users\user\source\repos\RegіstratіonForm\RegіstratіonForm\bin\Debug\RegіstratіonForm.exe
+C:\Users\user\source\repos\RegіstratіonForm\RegіstratіonForm\bin\Debug\RegіstratіonForm.pdb
+C:\Users\user\source\repos\RegіstratіonForm\RegіstratіonForm\obj\Debug\RegіstratіonForm.csprojAssemblyReference.cache
+C:\Users\user\source\repos\RegіstratіonForm\RegіstratіonForm\obj\Debug\RegіstratіonForm.Form1.resources
+C:\Users\user\source\repos\RegіstratіonForm\RegіstratіonForm\obj\Debug\RegіstratіonForm.Properties.Resources.resources
+C:\Users\user\source\repos\RegіstratіonForm\RegіstratіonForm\obj\Debug\RegіstratіonForm.csproj.GenerateResource.cache
+C:\Users\user\source\repos\RegіstratіonForm\RegіstratіonForm\obj\Debug\RegіstratіonForm.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RegіstratіonForm\RegіstratіonForm\obj\Debug\RegіstratіonForm.exe
+C:\Users\user\source\repos\RegіstratіonForm\RegіstratіonForm\obj\Debug\RegіstratіonForm.pdb
