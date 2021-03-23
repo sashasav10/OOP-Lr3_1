@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\WіnQuestіon\WіnQuestіon\bin\Debug\WіnQuestіon.exe.config
+C:\Users\user\source\repos\WіnQuestіon\WіnQuestіon\bin\Debug\WіnQuestіon.exe
+C:\Users\user\source\repos\WіnQuestіon\WіnQuestіon\bin\Debug\WіnQuestіon.pdb
+C:\Users\user\source\repos\WіnQuestіon\WіnQuestіon\obj\Debug\WіnQuestіon.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WіnQuestіon\WіnQuestіon\obj\Debug\WіnQuestіon.Form1.resources
+C:\Users\user\source\repos\WіnQuestіon\WіnQuestіon\obj\Debug\WіnQuestіon.Properties.Resources.resources
+C:\Users\user\source\repos\WіnQuestіon\WіnQuestіon\obj\Debug\WіnQuestіon.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WіnQuestіon\WіnQuestіon\obj\Debug\WіnQuestіon.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WіnQuestіon\WіnQuestіon\obj\Debug\WіnQuestіon.exe
+C:\Users\user\source\repos\WіnQuestіon\WіnQuestіon\obj\Debug\WіnQuestіon.pdb

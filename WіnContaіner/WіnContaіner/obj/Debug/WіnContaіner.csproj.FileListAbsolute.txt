@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\WіnContaіner\WіnContaіner\bin\Debug\WіnContaіner.exe.config
+C:\Users\user\source\repos\WіnContaіner\WіnContaіner\bin\Debug\WіnContaіner.exe
+C:\Users\user\source\repos\WіnContaіner\WіnContaіner\bin\Debug\WіnContaіner.pdb
+C:\Users\user\source\repos\WіnContaіner\WіnContaіner\obj\Debug\WіnContaіner.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WіnContaіner\WіnContaіner\obj\Debug\WіnContaіner.Form1.resources
+C:\Users\user\source\repos\WіnContaіner\WіnContaіner\obj\Debug\WіnContaіner.Properties.Resources.resources
+C:\Users\user\source\repos\WіnContaіner\WіnContaіner\obj\Debug\WіnContaіner.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WіnContaіner\WіnContaіner\obj\Debug\WіnContaіner.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WіnContaіner\WіnContaіner\obj\Debug\WіnContaіner.exe
+C:\Users\user\source\repos\WіnContaіner\WіnContaіner\obj\Debug\WіnContaіner.pdb
